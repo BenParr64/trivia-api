@@ -30,6 +30,13 @@ jobs:
         working-directory: 'PubQuiz.Api'
         run: dotnet test
 
+      - name: Publish
+        run: dotnet publish
+
+      - name: Publish
+        run: dotnet publish -c Release --output ./Release
+
+
   deploy:
     runs-on: windows-latest
     needs: build
