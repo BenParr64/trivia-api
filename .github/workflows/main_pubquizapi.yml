@@ -24,8 +24,10 @@ jobs:
         working-directory: 'PubQuiz.Api'
         run: dotnet restore
       - name: Build
+        working-directory: 'PubQuiz.Api'
         run: dotnet build
       - name: Test with the dotnet CLI
+        working-directory: 'PubQuiz.Api'
         run: dotnet test
 
   deploy:
