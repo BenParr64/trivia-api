@@ -1,0 +1,15 @@
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\bin\Debug\net6.0\PubQuiz.Services.deps.json
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\bin\Debug\net6.0\PubQuiz.Services.dll
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\bin\Debug\net6.0\PubQuiz.Services.pdb
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\bin\Debug\net6.0\PubQuiz.Domain.dll
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\bin\Debug\net6.0\PubQuiz.Domain.pdb
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\obj\Debug\net6.0\PubQuiz.Services.csproj.AssemblyReference.cache
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\obj\Debug\net6.0\PubQuiz.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\obj\Debug\net6.0\PubQuiz.Services.AssemblyInfoInputs.cache
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\obj\Debug\net6.0\PubQuiz.Services.AssemblyInfo.cs
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\obj\Debug\net6.0\PubQuiz.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\obj\Debug\net6.0\PubQuiz.Services.csproj.CopyComplete
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\obj\Debug\net6.0\PubQuiz.Services.dll
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\obj\Debug\net6.0\refint\PubQuiz.Services.dll
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\obj\Debug\net6.0\PubQuiz.Services.pdb
+C:\Users\Ben\source\repos\BenParr64\trivia-api\PubQuiz.Services\obj\Debug\net6.0\ref\PubQuiz.Services.dll

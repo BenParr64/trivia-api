@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ikyEqsZuONgi5i5aiRICEaIuYUBMk9cWKZPOyyZAhLEn1+l0MoZFnHSWvURV+dznl4ZV6MjqyKenpyfNP2zhzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ben\\source\\repos\\BenParr64\\trivia-api\\PubQuiz.Domain\\PubQuiz.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\mongodb.bson\\2.17.1\\mongodb.bson.2.17.1.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
