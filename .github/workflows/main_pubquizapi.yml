@@ -24,7 +24,7 @@ jobs:
           include-prerelease: true
 
       - name: Build with dotnet
-        run: dotnet build PubQuiz.Api/PubQuiz.Api.sln --configuration Release
+        run: dotnet build '**/*.sln' --configuration Release
 
       - name: dotnet publish
         run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/pubquiz
